@@ -8,6 +8,76 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel x:Name="Header" HorizontalAlignment="Left" Height="200" VerticalAlignment="Top" Width="1366" Background="#FF005EFF">
+            <Image Height="196" Margin="889,0,0,0" Source="Assets/Logo.png" Stretch="Fill"/>
+        </StackPanel>
+        <Button x:Name="MainButton3" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="546,200,0,0" BorderThickness="0" Width="273" Height="284" Click="MainButton3_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/Hotels/PrindsenHotel.jpg"/>
+            </Button.Background>
+            <Button Content="Button" BorderThickness="0"/>
+        </Button>
+        <Button x:Name="MainButton2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="273,200,0,0" BorderThickness="0" Width="273" Height="284" Click="MainButton2_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/Hotels/DanhotelHotel.jpg"/>
+            </Button.Background>
+            <Button Content="Button" BorderThickness="0"/>
+        </Button>
+        <Button x:Name="MainButton4" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="819,200,0,0" BorderThickness="0" Width="273" Height="284" Click="MainButton4_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/Hotels/RoskildeCamping.jpg"/>
+            </Button.Background>
+            <Button Content="Button" BorderThickness="0"/>
+        </Button>
+        <Button x:Name="MainButton1" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,200,0,0" BorderThickness="0" Width="273" Height="284" Click="MainButton1_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/Hotels/ComwellHotel.jpg"/>
+            </Button.Background>
+            <Button Content="Button" BorderThickness="0"/>
+        </Button>
+        <Button x:Name="MainButton5" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="1092,200,0,0" BorderThickness="0" Width="273" Height="284" Click="MainButton5_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/Hotels/ScandicHotel.jpg"/>
+            </Button.Background>
+            <Button Content="Button" BorderThickness="0"/>
+        </Button>
+        <Button x:Name="MainButton8" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="546,484,0,0" BorderThickness="0" Width="273" Height="284" Click="MainButton8_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/Hotels/ScandicHotel.jpg"/>
+            </Button.Background>
+            <Button Content="Button" BorderThickness="0"/>
+        </Button>
+        <Button x:Name="MainButton7" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="273,487,0,-3" BorderThickness="0" Width="273" Height="284" Click="MainButton7_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/Hotels/RoskildeCamping.jpg"/>
+            </Button.Background>
+            <Button Content="Button" BorderThickness="0"/>
+        </Button>
+        <Button x:Name="MainButton9" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="819,484,0,0" BorderThickness="0" Width="273" Height="284" Click="MainButton9_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/Hotels/ComwellHotel.jpg"/>
+            </Button.Background>
+            <Button Content="Button" BorderThickness="0"/>
+        </Button>
+        <Button x:Name="MainButton6" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,484,0,0" BorderThickness="0" Width="273" Height="284" Click="MainButton6_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/Hotels/PrindsenHotel.jpg"/>
+            </Button.Background>
+            <Button Content="Button" BorderThickness="0"/>
+        </Button>
+        <Button x:Name="MainButton10" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="1092,484,0,0" BorderThickness="0" Width="273" Height="284" Click="MainButton10_Click">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/Hotels/DanhotelHotel.jpg"/>
+            </Button.Background>
+            <Button Content="Button" BorderThickness="0"/>
+        </Button>
+        <Rectangle x:Name="Dimmer" Fill="#FF000001" HorizontalAlignment="Left" Height="768" Stroke="Black" VerticalAlignment="Top" Width="1366" Opacity="0.7" Visibility="Collapsed"/>
+        <Image x:Name="Image1" HorizontalAlignment="Left" Height="500" VerticalAlignment="Top" Width="600" RenderTransformOrigin="0.5,0.5" Margin="10,205,0,0">
+            <Image.Projection>
+                <PlaneProjection RotationY="-30"/>
+            </Image.Projection>
+        </Image>
+        <Button x:Name="BackButton" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Height="71" Width="131" Margin="1228,202,0,0" Click="BackButton_Click" Visibility="Collapsed"/>
 
     </Grid>
 </Page>

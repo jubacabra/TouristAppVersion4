@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GORDON-PC</Machine>
+    <WindowsUser>Jubacabra</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>15963a86-5bab-494e-acab-64976b3a9ecf</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>2B7E7CB7528E26A83724AF89D8A3DDA8C7233B6395087C7B0C474BD3DE7BF103</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>15963a86-5bab-494e-acab-64976b3a9ecf_1.0.0.0_neutral__pdv1z22175j08</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>15963a86-5bab-494e-acab-64976b3a9ecf_pdv1z22175j08!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>15963a86-5bab-494e-acab-64976b3a9ecf</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jubacabra</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-21T13:45:13.702</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\bin\Debug\TouristAppV4.Windows.exe">
+      <PackagePath>TouristAppV4.Windows.exe</PackagePath>
+      <Modified>2014-11-21T13:45:13.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\Assets\Hotels\ComwellHotel.jpg">
+      <PackagePath>Assets\Hotels\ComwellHotel.jpg</PackagePath>
+      <Modified>2014-11-06T01:55:21.472</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\Assets\Hotels\DanhotelHotel.jpg">
+      <PackagePath>Assets\Hotels\DanhotelHotel.jpg</PackagePath>
+      <Modified>2014-11-06T02:02:25.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\Assets\Hotels\HotelBackground.jpg">
+      <PackagePath>Assets\Hotels\HotelBackground.jpg</PackagePath>
+      <Modified>2014-11-06T01:43:00.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\Assets\Hotels\PrindsenHotel.jpg">
+      <PackagePath>Assets\Hotels\PrindsenHotel.jpg</PackagePath>
+      <Modified>2014-11-06T01:50:51.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\Assets\Hotels\RoskildeCamping.jpg">
+      <PackagePath>Assets\Hotels\RoskildeCamping.jpg</PackagePath>
+      <Modified>2014-11-06T02:06:53.712</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\Assets\Hotels\ScandicHotel.jpg">
+      <PackagePath>Assets\Hotels\ScandicHotel.jpg</PackagePath>
+      <Modified>2014-11-06T01:47:38.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-21T13:36:42.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-21T13:39:53.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\bin\Debug\TouristAppV4.Windows.xr.xml">
+      <PackagePath>TouristAppV4.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-21T13:39:53.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jubacabra\Desktop\Repositories\TouristAppV4\TouristAppV4\TouristAppV4.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-21T13:45:13.650</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
